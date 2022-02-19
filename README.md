@@ -1,4 +1,4 @@
-# SIAOI-APP-REACTIVE-PANACHE
+# QUARKUS-APP-REACTIVE-PANACHE
 
 Exemplo de projeto feito em Quarkus para demonstrar a interação com o banco de dados PostgreSQL por meio de programação reativa usando o framework panache.
 
