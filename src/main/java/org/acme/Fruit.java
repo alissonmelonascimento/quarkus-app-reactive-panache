@@ -1,0 +1,13 @@
+package org.acme;
+
+import javax.persistence.Entity;
+
+import io.quarkus.hibernate.reactive.panache.PanacheEntity;
+
+@Entity
+public class Fruit extends PanacheEntity{
+
+    public Long id;
+    public String name;
+    
+}
